@@ -1,0 +1,8 @@
+.form {
+  margin: 10px;
+  padding: 5px;
+  display: inline-block;
+  width: 60%;
+  background-color: #daf1f1;
+  border-radius: 20px;
+}
